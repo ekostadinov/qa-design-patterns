@@ -1,6 +1,6 @@
 # Design patterns QA - PoC 
 
-# Implemented in C#
+# Implemented in CSharp
 
 Design patterns are formalized best practices that the programmers can use to
 solve common problems when designing an application or system. They can speed up the development process by providing tested, proven development paradigms.
@@ -19,3 +19,4 @@ and Do The Simplest Thing That Could Possibly Work principles. Complexity and
 patterns should only be introduced when they are needed for practical
 extensibility.
 
+NOTE: Every real data, configurations and resources used for demos has been obfuscated.
