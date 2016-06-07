@@ -1,7 +1,7 @@
 ---
 layout: pattern
 title: Resource Acquisition Is Initialization
-categories: Structural
+categories: Behavioural
 ---
 
 ## Also known as
